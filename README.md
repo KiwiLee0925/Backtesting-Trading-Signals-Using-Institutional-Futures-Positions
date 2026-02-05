@@ -1,15 +1,14 @@
 # Backtesting-Trading-Signals-Using-Institutional-Futures-Positions
 An Empirical Study on TXF Major Institutional Investors (2010–2025)
-# Backtesting Trading Signals Using Institutional Futures Positions
 
-This project is part of the **EDGE Internship – Assignment 2**, focusing on the next step of building a quantitative backtesting framework:  
+This project is part of the **EDGE Internship**, focusing on the next step of building a quantitative backtesting framework:  
 **designing and evaluating trading signals based on institutional investor behavior** in the Taiwan Index Futures (TXF).
 
 The analysis investigates whether positions held by major institutional investors can be translated into meaningful and robust trading signals across different market regimes.
 
 ---
 
-## 📊 Data Description
+## Data Description
 
 The study uses **Taiwan Index Futures (TXF)** data and position information of the **three major institutional investors**:
 
@@ -26,7 +25,7 @@ Two types of open interest (OI) data are considered:
 
 ---
 
-## ⏱ Sample Periods
+## Sample Periods
 
 The backtest is divided into two regimes:
 
@@ -40,7 +39,7 @@ A vertical split is applied in all visualizations to highlight structural change
 
 ---
 
-## 🔍 Exploratory Analysis
+## Exploratory Analysis
 
 The project first visualizes the time series of net open interest (quantity-based) for:
 
@@ -74,7 +73,7 @@ This structure is tested across both sample periods to assess robustness.
 
 ---
 
-## 🔄 In-Sample vs Out-of-Sample Comparison
+## In-Sample vs Out-of-Sample Comparison
 
 A regime comparison reveals clear structural shifts after 2020:
 
@@ -87,7 +86,7 @@ Despite these changes, the **core strategy logic remains applicable**, provided 
 
 ---
 
-## 🌍 Macro Interpretation
+## Macro Interpretation
 
 Major events around 2020 help explain the structural break, including:
 
@@ -100,7 +99,7 @@ These factors highlight why institutional signals should be interpreted **within
 
 ---
 
-## 🛠 Tools & Implementation
+## Tools & Implementation
 
 - **Python** for data processing and visualization
 - Time-series plots with regime separation
@@ -108,7 +107,7 @@ These factors highlight why institutional signals should be interpreted **within
 
 ---
 
-## 📎 References
+## References
 
 - Python notebook (Google Colab):  
   https://colab.research.google.com/drive/1pcG1JF2vN2YP6LPQflQMCtLUss_ATHXZ?usp=sharing
@@ -118,7 +117,7 @@ These factors highlight why institutional signals should be interpreted **within
 
 ---
 
-## 👤 Author
+## Author
 
 **Chi-Wei Lee**  
 Department of Civil Engineering, National Taiwan University  
