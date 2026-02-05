@@ -58,7 +58,7 @@ These findings are interpreted through the lens of each institution’s **capita
 
 ---
 
-## 📐 Strategy Logic
+## Strategy Logic
 
 Based on institutional characteristics and observed patterns, the strategy framework is constructed as follows:
 
